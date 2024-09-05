@@ -1,4 +1,5 @@
 // what problem?
+// hello
 Bool_t ratiodiv = true;
 void macro()
 {
