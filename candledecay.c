@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 void candledecay()
 {
     auto c1 = new TCanvas("c1", "Candle Decay", 800, 600);
@@ -42,8 +41,3 @@ void candledecay()
     h2 -> SetBarWidth(0.9);
     h2 -> DrawCopy("candley2");
 }
-=======
-hello
-bye
-hello
->>>>>>> 7da739dc4d42c021b4e0cadfc82b699002c0c8d2
